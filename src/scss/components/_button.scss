@@ -1,0 +1,16 @@
+@import '../variables';
+
+.button {
+  border: none;
+  width: 262px;
+  height: 61px;
+  background: #4077f3;
+  cursor: pointer;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: $white;
+}
